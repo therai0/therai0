@@ -18,9 +18,9 @@ Welcome to my digital space! I am a passionate Data Scientist dedicated to solvi
 ---
 
 ## 🔭 Current Focus & Aspirations
-- 🤖 **Currently working on:** Advanced Generative AI workflows, RAG (Retrieval-Augmented Generation) pipelines, and fine-tuning open-source LLMs.
-- 🌱 **Currently learning:** Scalable MLOps practices and deploying deep learning models at scale.
-- 🤝 **Looking to collaborate on:** Open-source AI/ML initiatives, innovative NLP tools, and data-driven impact projects.
+- 🤖 **Currently working on:** Data Science, GenAI
+
+
 
 ---
 
