@@ -8,7 +8,7 @@ Welcome to my digital space! I am a passionate Data Scientist dedicated to solvi
 
 ## 🧰 Tech Stack & Expertise
 
-*   **Languages & Core:** Python, SQL
+*   **Languages & Core:** JS , Python, SQL
 *   **Data Science & ML:** NumPy, Pandas, Matplotlib,Seaborn, Scikit-Learn, SciPy
 *   **Natural Language Processing (NLP):** NLTK, Spacy, Transformers (Hugging Face), BERT
 *   **Deep Learning:** TensorFlow, Keras, PyTorch
