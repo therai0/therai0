@@ -18,7 +18,7 @@ Welcome to my digital space! I am a passionate Data Scientist dedicated to solvi
 ---
 
 ## 🔭 Current Focus & Aspirations
-- 🤖 **Currently working on:** Data Science, GenAI
+- 🤖 **Currently working on:** Data Science,ML,NLP and Deep Learning
 
 
 
